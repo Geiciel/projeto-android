@@ -7,7 +7,7 @@
 
 @font-face {
     font-family: 'h1';
-    src: url(__MACOSX/fontes/BebasNeue-Regular.ttf);
+    src: url(fontes/BebasNeue-Regular.ttf);
     font-weight: normal;
     font-style: normal;
 }
